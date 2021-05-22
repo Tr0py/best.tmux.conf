@@ -1,0 +1,2 @@
+# Best `tmux.conf` ever.
+
