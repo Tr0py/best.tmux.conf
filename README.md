@@ -28,6 +28,7 @@ git clone https://github.com/Tr0py/best.tmux.conf
 **Copy the config file to your folder.**
 
 ```shell
+cd best.tmux.conf
 cp .tmux.conf ~/.tmux.conf
 tmux source-file ~/.tmux.conf
 ```
