@@ -13,6 +13,15 @@ Therefore, here comes the simple, portable version of tmux conf.
 
 ## How to use 
 
+
+### Quick Installation
+
+```shell
+curl -o ~/.tmux.conf https://raw.githubusercontent.com/Tr0py/best.tmux.conf/master/.tmux.conf
+```
+
+### Portable Installation
+
 **Backup your tmux config file.**
 
 ```shell
